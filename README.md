@@ -1,9 +1,7 @@
-# NextGen-Churn-Blockchain-API
-Integrates Machine Learning (Gradient Boosting) for predictive customer churn with a simulated Blockchain Ledger for immutable recording of retention decisions (SDG 8/9).
 # 📈 Next-Gen Churn Intelligence: ML & Blockchain for Predictive Retention (SDG 8 & 9)
-
+Integrates Machine Learning (Gradient Boosting) for predictive customer churn with a simulated Blockchain Ledger for immutable recording of retention decisions (SDG 8/9).
 ## Project Overview
-
+NextGen-Churn-Blockchain-API
 The Next-Gen Churn Intelligence project introduces an innovative framework that integrates Machine Learning (ML) and Distributed Ledger Technology (Blockchain) to develop a transparent and effective customer retention strategy tailored for subscription-based businesses in emerging economies. This initiative aims to transition from reactive customer service models to proactive, personalized interventions, enhancing economic stability and fostering technological trust in line with Sustainable Development Goals (SDG) 8 (Decent Work and Economic Growth) and SDG 9 (Industry, Innovation, and Infrastructure).
 
 ## 📊 Key Impact & Verifiable Metrics
@@ -74,9 +72,3 @@ JSON
 }
 2. GET /api/ledger_status
 Returns the full, immutable history of all recorded retention actions for auditing purposes.
-
-## 🔗 Leadership & Connectivity
-This project showcases expertise in integrating cutting-edge technology for economic resilience, reflecting my role as Lead Data Scientist at KleanData Konsult.
-
-Sylvanus Olufemi Orodiran | [(https://www.linkedin.com/in/sylvanus-olufemi-orodiran)]
-Active Member: Nigeria Computer Society (NCS ID: 18077)
