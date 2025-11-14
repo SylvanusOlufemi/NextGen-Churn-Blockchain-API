@@ -1,4 +1,8 @@
 # 📈 Next-Gen Churn Intelligence: ML & Blockchain for Predictive Retention (SDG 8 & 9)
+
+
+<img width="1344" height="768" alt="Generate_an_hd_202511141331" src="https://github.com/user-attachments/assets/4bdacd68-a2ef-4c2c-8bef-6acefdbd2dcf" />
+
 Integrates Machine Learning (Gradient Boosting) for predictive customer churn with a simulated Blockchain Ledger for immutable recording of retention decisions (SDG 8/9).
 ## Project Overview
 NextGen-Churn-Blockchain-API
