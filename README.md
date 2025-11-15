@@ -46,7 +46,7 @@ This system is built on two synchronized Python stacks to achieve both predictio
 
 ```bash
 pip install pandas scikit-learn joblib flask pulp
-
+```
 # Setup and Run
 ## Train Model:
 Bash
