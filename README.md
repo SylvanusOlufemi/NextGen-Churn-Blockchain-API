@@ -78,7 +78,7 @@ JSON
 Returns the full, immutable history of all recorded retention actions for auditing purposes.
 
 
-## ## 🔗 Leadership & Connectivity
+## 🔗 Leadership & Connectivity
 This project showcases expertise in integrating cutting-edge technology for economic resilience, reflecting my role as Lead Data Scientist at KleanData Konsult.
 
 Sylvanus Olufemi Orodiran | [(https://www.linkedin.com/in/sylvanus-olufemi-orodiran)]
