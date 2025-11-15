@@ -42,7 +42,7 @@ This system is built on two synchronized Python stacks to achieve both predictio
 
 ## 🚀 Deployment and API Usage
 
-### Prerequisites
+## Prerequisites
 
 ```bash
 pip install pandas scikit-learn joblib flask pulp
